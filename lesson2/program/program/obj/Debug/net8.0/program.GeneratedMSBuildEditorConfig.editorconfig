@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = program
-build_property.ProjectDir = C:\Users\USER PC\Desktop\Gaming Course\Assignments\Assignment 2\intro-to-coding-lesson-2\lesson2\program\program\
+build_property.ProjectDir = /workspaces/intro-to-coding-lesson-2/lesson2/program/program/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

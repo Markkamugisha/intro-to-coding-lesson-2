@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER PC\\Desktop\\Gaming Course\\Assignments\\Assignment 2\\intro-to-coding-lesson-2\\lesson2\\program\\program\\program.csproj": {}
+    "/workspaces/intro-to-coding-lesson-2/lesson2/program/program/program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER PC\\Desktop\\Gaming Course\\Assignments\\Assignment 2\\intro-to-coding-lesson-2\\lesson2\\program\\program\\program.csproj": {
+    "/workspaces/intro-to-coding-lesson-2/lesson2/program/program/program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER PC\\Desktop\\Gaming Course\\Assignments\\Assignment 2\\intro-to-coding-lesson-2\\lesson2\\program\\program\\program.csproj",
+        "projectUniqueName": "/workspaces/intro-to-coding-lesson-2/lesson2/program/program/program.csproj",
         "projectName": "program",
-        "projectPath": "C:\\Users\\USER PC\\Desktop\\Gaming Course\\Assignments\\Assignment 2\\intro-to-coding-lesson-2\\lesson2\\program\\program\\program.csproj",
-        "packagesPath": "C:\\Users\\USER PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER PC\\Desktop\\Gaming Course\\Assignments\\Assignment 2\\intro-to-coding-lesson-2\\lesson2\\program\\program\\obj\\",
+        "projectPath": "/workspaces/intro-to-coding-lesson-2/lesson2/program/program/program.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/intro-to-coding-lesson-2/lesson2/program/program/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
